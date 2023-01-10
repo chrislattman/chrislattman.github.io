@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/chrislattman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.chrislattman.com
+  * I am chrislattman (https://keybase.io/chrislattman) on keybase.
+  * I have a public key with fingerprint A346 AA69 DECA 1F33 CFF1  A3B2 28D8 856F 4B2D C146
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01019dd4d9a0f6f7a55edb25e4b75515e75b3a7bc080b4e8a84af5d8531b807919080a",
+      "fingerprint": "a346aa69deca1f33cff1a3b228d8856f4b2dc146",
+      "host": "keybase.io",
+      "key_id": "28d8856f4b2dc146",
+      "kid": "01019dd4d9a0f6f7a55edb25e4b75515e75b3a7bc080b4e8a84af5d8531b807919080a",
+      "uid": "bff50c17e9cd62aa2593f1507f9def19",
+      "username": "chrislattman"
+    },
+    "service": {
+      "hostname": "www.chrislattman.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1634702719,
+  "expire_in": 157680000,
+  "prev": "8a5679419081733620935d855d129d0e099eb8a6d1a439c70fe3fecbc23b839b",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUl1MFFcYZWGJiEVAxHZByjpGgwnC/Oz8bfWFtii0Vg21TQsId2buwAA7s+4O
+u1CKRmCrFANUUaJRENeG1tLEiAmilEDxBxcqSDAxgWBrrJUoBChYIKl2hmjShz72
+vtzc7zvn3HO+fLUhAX5Bhrj7HuWDzd3Jhr5xzg8oxz0lCKcIxYi1BMmHSxcsEKBT
+zcqXBMSKoBiKsYJgEViAipRIA5KEAoeT0MLRJImRkCY5AtAcjzIoZ4EMYCxAJAWG
+JDCOQWkWY7UGQOIRUZJzoMPukGRVkwWEhQKAYgXIA0wkCF4UMUBwOM4IDENSooXD
+BR6zUBoxV3HqDM0cB5wwQVK0mvbIWrL3H/j/2XfhkhwniiTKYzRkeYHCAcBJlhAx
+EqVFLYKIsTrQCR0ysEENzec6JGcBUFUbkJHSeETruCQe6sPV07xCud3uhH8jE3jF
+punYHYqq8EqBhshVVbvTqiuoxfYlCuSyXollcZIsaDPVGC7ocEqKjFgxDcmrkq6O
+UYSFRnEaY+MRWGSXHDBL0hEkTTGodvR/BOjSNBlAUjRr0QNjNEFQOMoS+iBIAcNZ
+AYUoy0KOAZSAAQvB8jQqQkKEPMfjBMcQLIfo+fbJCmKlNZ8gR5N0SjkyUAsdECkN
+rvQnjH6GIL+YNeuM3uQL0pgvlhiY9l56vYeB/voS+gUvD3tdeSMt9GXqxpj1dw6E
+8ZHRHcYteFvIdM3aC/4+cFDour01tuLY3W9n0YE9l6ofBIoZe2Knvo9o/L14MTDP
+ZO46+Nl1qS2uobIIq3ADabJlrOlxSkkKV/pi5sTHXjr0YvpKzx9XO911862Gxuj9
+lVvNpeXekHNJdcbYiwujee3hdc/b065lVJ346j1jsm/83PqyxL3mEjHi0NTTL0/V
+bxi8dqPD9ElncGTpcNiUscU9tTJxofCLrzc1rfbJb/aXI8r8xA61dtmW7rKNZhu+
+N6o86XGU17oDHls7Z8w0nV92egjNyP4bf+teexCRevuviIWq+uL8wdROc83Qd2c6
+VmxO7Zlq4BpRy+ipuQc/nB37U8Z3L1ZkN2939S6+2/f57Nmymao7la5hz69EfZS9
+ZzVDxzyh30Yqbz2KJgzLm0dDrgxOlpOjtnUZnnhsU3b+RNuzW2mGG4krOgtuPr1s
+rp2doZumx7alb8+efNJ20/TRrndyWkfCgq9j0x+mePvoF4f3XWHGB3cm9XxzMnSu
+vd/Xen/e3FQmV3eFX23rBQ0nTzdEHd/muvvyUe+acfhsrmd3TfaEh0FbhvMeuod+
+60r3JawaeW7NHAg+2hiJv9+dh/ZvsFUjP346F3fGquSH/3KE3B/RbDs8jv88AlPR
+Q51FpoCZy1TrT32ZSeiRXZEHau1H5VWme8aHAf8A
+=ypdh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chrislattman
+
+==================================================================
